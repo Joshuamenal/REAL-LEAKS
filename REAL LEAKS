@@ -1,0 +1,56 @@
+@@ -0,0 +1,55 @@
+<!doctype html>
+<html lang="fr"> 
+    <link rel="icon" href=
+    "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsoundcloud.com%2Fcroshtheprotogen&psig=AOvVaw0kp6IfcmSfef3VTpP7jdbp&ust=1683127993508000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIDgnsP61v4CFQAAAAAdAAAAABAE" type="image/x-icon">
+	<head> 
+
+		<meta charset="utf-8">
+		<title>REAL LEAKS</title>
+        <style>
+            body {
+                background-image: url("Nocta.jpg");
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+        </style>
+	</head> 
+
+	<body> 
+        <div class="container">
+            <a href="https://soundcloud.com/rackriles/ovo-mix-ii?si=50c2ffb4295e474c8b635214cac7eec1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><button class="btn">NEW DRAKE'S LEAKS!!</button></a>
+            <h1 class="BigText">REAL LEAKS</h1>
+            <button class="btn2">Sign In </button>
+
+            <ul>
+                <img class ="results fro drake "src="Results for Drake.png" alt="">
+            </ul>    
+                <li><a class="active" href="#Home">HOME</a></li>
+                <li><a  href="#LEAKS">LEAKS</a></li>
+                <li><a  href="#snipets">SNIPETS</a></li>
+                <li><a  href="#About">ABOUT</a></li>
+            </ul>
+            <section class="leaks">
+                <h2>Popular leaks</h2>
+                <hr class="rounded">
+                <div class="leakcontainer" id="LEAKS">
+                    <div class="RAPimg">
+                        <div class="myimages">
+                            <a href="https://on.soundcloud.com/96boj"><img src="Drake Just Tried To Visit Kappa Kappa Gamma And Kappa Alpha Theta At Drake University But Everyone Was Asleep.png" alt="DRAKE"></a>
+                        </div>
+                        <h2>DRAKE - 4AM IN TORONTO</h2>
+                        <a href="https://on.soundcloud.com/wEJGj"><img src="Kanye and Drake’s Onstage Reunion Was a Surreal, Historic Moment.jpeg" alt="DRAKE"></a>
+                    </ul>      
+                    </div>
+                        <h2>KANYE WEST - 24 ( DRAKE's COVER )</h2>  
+                        <a href="https://on.soundcloud.com/KMd8T"><img src="Unknown.jpg" alt="KANYE"></a>
+                    </ul>      
+                    </div>
+                        <h2>KANYE WEST - YE's FREESTYLE</h2>  
+                    </div>
+                </div>
+            </section>
+
+        </div>
+	</body> 
+</html>
